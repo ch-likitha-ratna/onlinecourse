@@ -1,0 +1,10 @@
+https://login.oracle.com/mysso/signon.jsp
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+https://docs.oracle.com/javase/8/docs/
+
+
+
+https://swayam.gov.in/nd2_cec20_cs04/preview
+Problem solving Aspects and Python Programming
+
